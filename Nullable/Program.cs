@@ -6,7 +6,7 @@ namespace Nullable
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
